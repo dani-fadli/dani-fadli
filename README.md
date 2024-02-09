@@ -1,16 +1,13 @@
-### Hi there <img src="https://tenor.com/bKQSx.gif" width="25px">
+## Hi there! <img src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="25px">
 
-<!--
-**dani-fadli/dani-fadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Dani Fadli, a Back-End developer ✨ from Bandung, Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+- 💼 I’m currently working as a full time Back-End Developer at [PT Paninti Duta Internusa](https://www.linkedin.com/company/pt-paninti-hub-indonesia/mycompany/), Bandung.
+- ❔ Ask me about anything!
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/dani--fadli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dani-fadli/) [![Gmail Badge](https://img.shields.io/badge/danifadliirmawn-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danifadliirmawn@gmail.com)
+- 👦 Pronouns: He/Him
+- 🌱 I strive to be a Full-Stack developer++ (plus other useful skills)
+- 🏫 I'm currently on my 6th semester as an Information System student at Widyatama University, Bandung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub Stats <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="25px">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dani-fadli&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
