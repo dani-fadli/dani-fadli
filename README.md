@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://tenor.com/bKQSx.gif" width="25px">
 
 <!--
 **dani-fadli/dani-fadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
